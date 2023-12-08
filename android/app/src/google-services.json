@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934500972873",
+    "project_id": "projectopia-ba157",
+    "storage_bucket": "projectopia-ba157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934500972873:android:22c93e33f51a1b7ce70298",
+        "android_client_info": {
+          "package_name": "com.foureal.projectopia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDusUf_NZodsg1w14uyvlyL4l9NRk6ftuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
